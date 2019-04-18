@@ -56,7 +56,7 @@ enum DDCRET
 };
 
 
-char *DDCRET_String ( DDCRET );   // See source\ddcret.cpp
+DDCRET_String ( DDCRET );   // See source\ddcret.cpp
 
 
 #define  TRUE     1
